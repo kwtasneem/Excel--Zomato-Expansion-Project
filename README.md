@@ -1,5 +1,6 @@
 # Zomato Global Expansion Project
-![image](https://github.com/kwtasneem/Excel--Zomato-Expansion-Project/assets/153414088/d00ae3b3-8f51-449b-bfb9-ba18e6165d71)
+![Screenshot (24)](https://github.com/kwtasneem/Excel--Zomato-Expansion-Project/assets/153414088/515f3890-4e0d-45a4-99aa-779d4bfb2a81)
+
 
 
 ## Overview
